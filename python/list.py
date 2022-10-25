@@ -1,3 +1,7 @@
+"""
+Check offical doucument
+https://docs.python.org/3/tutorial/datastructures.html
+"""
 a = [1, 2, 3, 4, 5, 6]
 
 # Add element
