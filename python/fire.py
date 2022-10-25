@@ -15,9 +15,9 @@ class Hello(object):
 if __name__ == '__main__':
 	"""
 	This example will create followed clis
-	python fire run who=alice
-	python fire run speed=2 who=bob
-	python fire stop
+	python ./fire run who=alice
+	python ./fire run speed=2 who=bob
+	python ./fire stop
 	"""
 	fire.Fire(Hello)
 
